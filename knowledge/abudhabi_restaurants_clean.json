@@ -1,0 +1,539 @@
+{
+  "city": "Abu Dhabi",
+  "source": "Abu Dhabi Restaurant Tourism Licenses Dataset 2025",
+  "record_count": 76,
+  "restaurants": [
+    {
+      "tourism_license": "CN-2241350",
+      "establishment_name": "EASY TIGER RESTAURANT",
+      "location": "AL AIN PALACE HOTEL",
+      "latitude": 24.49705556,
+      "longitude": 54.36497222
+    },
+    {
+      "tourism_license": "CN-2241422",
+      "establishment_name": "LITTLE SOHO RESTAURANT - SOLE PROPRIETORSHIP L.L.C.",
+      "location": "AL AIN PALACE HOTEL",
+      "latitude": 24.49705556,
+      "longitude": 54.36497222
+    },
+    {
+      "tourism_license": "CN-2239622",
+      "establishment_name": "ORNINA RESTAURANT - SOLE PROPRIETORSHIP L.L.C.",
+      "location": "Al Bandar",
+      "latitude": 24.45180556,
+      "longitude": 54.60047222
+    },
+    {
+      "tourism_license": "CN-1517461",
+      "establishment_name": "VICCIS RESTAURANT - SOLE PROPRIETORSHIP L.L.C.",
+      "location": "Al Muneera",
+      "latitude": 24.45208333,
+      "longitude": 54.60461111
+    },
+    {
+      "tourism_license": "CN-1990136",
+      "establishment_name": "DANDANA GOURMET RESTAURANT",
+      "location": "Al Zeina",
+      "latitude": 24.45308333,
+      "longitude": 54.61275
+    },
+    {
+      "tourism_license": "CN-2784428",
+      "establishment_name": "MOKSH RESTAURANT",
+      "location": "CONRAD HOTEL ABU DHABI ETIHAD TOWERS",
+      "latitude": 24.45869444,
+      "longitude": 54.32152778
+    },
+    {
+      "tourism_license": "CN-2317579",
+      "establishment_name": "BACK YARD BISTRO RESTAURANT L.L.C.",
+      "location": "COURTYARD BY MARRIOTT WTC",
+      "latitude": 24.48816667,
+      "longitude": 54.35611111
+    },
+    {
+      "tourism_license": "CN-2242536",
+      "establishment_name": "ON SEVENTEEN BAR - SOLE PROPRIETORSHIP L.L.C.",
+      "location": "CRISTAL HOTEL",
+      "latitude": 24.48469444,
+      "longitude": 54.36336111
+    },
+    {
+      "tourism_license": "CN-2239792",
+      "establishment_name": "VIEWZ RESTAURANT",
+      "location": "CRISTAL HOTEL",
+      "latitude": 24.48469444,
+      "longitude": 54.36336111
+    },
+    {
+      "tourism_license": "CN-2241076",
+      "establishment_name": "STILLS RESTAURANT",
+      "location": "CROWNE PLAZA HOTEL YAS ISLAND",
+      "latitude": 24.46561111,
+      "longitude": 54.59758333
+    },
+    {
+      "tourism_license": "CN-2244056",
+      "establishment_name": "BAROUK RESTAUEANT",
+      "location": "CROWNE PLAZA HOTEL YAS ISLAND",
+      "latitude": 24.46561111,
+      "longitude": 54.59758333
+    },
+    {
+      "tourism_license": "CN-2241280",
+      "establishment_name": "D' CAPITAL STEAKHOUSE RESTAURANT - SOLE PROPRIETORSHIP L.L.C",
+      "location": "DUSIT THANI ABU DHABI HOTEL LLC",
+      "latitude": 24.455,
+      "longitude": 54.39475
+    },
+    {
+      "tourism_license": "CN-2239788",
+      "establishment_name": "MAZAJ BAB AL BAHR RESTAURANT",
+      "location": "FAIRMONT BAB AL BAHR HOTEL",
+      "latitude": 24.4145,
+      "longitude": 54.49041667
+    },
+    {
+      "tourism_license": "CN-4247740",
+      "establishment_name": "GHANTOOT RACING CLUB RESTAURANT",
+      "location": "Ghantoot racing club",
+      "latitude": 24.87286111,
+      "longitude": 54.90516667
+    },
+    {
+      "tourism_license": "CN-2687954",
+      "establishment_name": "LAYALI SHAHRAZAD RESTAURANT & LOUNGE",
+      "location": "GRAND MILLENNIUM AL WAHDA HOTEL",
+      "latitude": 24.47136111,
+      "longitude": 54.37369444
+    },
+    {
+      "tourism_license": "CN-2243594",
+      "establishment_name": "PORTERS PUB RESTAURANT",
+      "location": "GRAND MILLENNIUM ALWAHDA APARTAMENTS",
+      "latitude": 24.47136111,
+      "longitude": 54.37369444
+    },
+    {
+      "tourism_license": "CN-2547785",
+      "establishment_name": "RENAISSANCE RESTAURANT - SOLE PROPRIETORSHIP L.L.C.",
+      "location": "HOLIDAY INN ABU DHABI",
+      "latitude": 24.42852778,
+      "longitude": 54.43688889
+    },
+    {
+      "tourism_license": "CN-2241706",
+      "establishment_name": "CHAMAS RESTAURANT",
+      "location": "INTERCONTINENTAL HOTEL ABU DHABI",
+      "latitude": 24.45708333,
+      "longitude": 54.32908333
+    },
+    {
+      "tourism_license": "CN-2241888",
+      "establishment_name": "BELGIUM RESTAURANT",
+      "location": "INTERCONTINENTAL HOTEL ABU DHABI",
+      "latitude": 24.45708333,
+      "longitude": 54.32908333
+    },
+    {
+      "tourism_license": "CN-2242610",
+      "establishment_name": "BYBLOS SUR MER RESTAURANT",
+      "location": "INTERCONTINENTAL HOTEL ABU DHABI",
+      "latitude": 24.45708333,
+      "longitude": 54.32908333
+    },
+    {
+      "tourism_license": "CN-2332926",
+      "establishment_name": "CHO GAO ASIAN RESTAURANT AND LOUNGE - BRANCH (INTERCONTINENTAL HOTEL )",
+      "location": "INTERCONTINENTAL HOTEL ABU DHABI",
+      "latitude": 24.45708333,
+      "longitude": 54.32908333
+    },
+    {
+      "tourism_license": "CN-2655173",
+      "establishment_name": "THE LOUNGE SAADIYAT",
+      "location": "JUMEIRAH AT SAADIYAT ISLAND RESORT",
+      "latitude": 24.56038889,
+      "longitude": 54.45233333
+    },
+    {
+      "tourism_license": "CN-2240048",
+      "establishment_name": "MERIDIEN PLAZA - SOLE PROPRIETORSHIP L.L.C.",
+      "location": "LE MERIDIEN HOTEL ABU DHABI",
+      "latitude": 24.49891667,
+      "longitude": 54.38113889
+    },
+    {
+      "tourism_license": "CN-2920688",
+      "establishment_name": "AVENUE STEAK HOUSE",
+      "location": "LE MERIDIEN HOTEL ABU DHABI",
+      "latitude": 24.49891667,
+      "longitude": 54.38113889
+    },
+    {
+      "tourism_license": "CN-3906110",
+      "establishment_name": "MYKONOS RESTAURANT&LOUNGE - SOLE PROPRIETORSHIP L.L.C.",
+      "location": "LE MERIDIEN HOTEL ABU DHABI",
+      "latitude": 24.49891667,
+      "longitude": 54.38113889
+    },
+    {
+      "tourism_license": "CN-2243922",
+      "establishment_name": "PJOREILLY RESTAURANT",
+      "location": "LE ROYAL MERIDIEN ABU DHABI EST.",
+      "latitude": 24.49633333,
+      "longitude": 54.36597222
+    },
+    {
+      "tourism_license": "CN-3022841",
+      "establishment_name": "BEIRUT SUR MER RESTAURANT L.L.C.",
+      "location": "MAMSHA AL SAADIYAT",
+      "latitude": 24.53911111,
+      "longitude": 54.41033333
+    },
+    {
+      "tourism_license": "CN-3674601",
+      "establishment_name": "RACLETTE BRASSERIE & CAFE L.L.C.",
+      "location": "MAMSHA AL SAADIYAT",
+      "latitude": 24.53911111,
+      "longitude": 54.41033333
+    },
+    {
+      "tourism_license": "CN-3734239",
+      "establishment_name": "TINGIRIE RESTAURANT - SOLE PROPRIETORSHIP L.L.C - BRANCH OF ABU DHABI 1",
+      "location": "MAMSHA AL SAADIYAT",
+      "latitude": 24.53911111,
+      "longitude": 54.41033333
+    },
+    {
+      "tourism_license": "CN-3791813",
+      "establishment_name": "NIRI RESTAURANT AND BAR - SOLE PROPRIETORSHIP L.L.C.",
+      "location": "MAMSHA AL SAADIYAT",
+      "latitude": 24.53911111,
+      "longitude": 54.41033333
+    },
+    {
+      "tourism_license": "CN-2243068",
+      "establishment_name": "VELOCITY RESTAURANT L.L.C",
+      "location": "MARRIOTT HOTEL DOWNTOWN L.LC",
+      "latitude": 24.47063889,
+      "longitude": 54.36983333
+    },
+    {
+      "tourism_license": "CN-2243096",
+      "establishment_name": "VICTORS BAR & RESTAURANT",
+      "location": "MILLENNIUM AL RAWDAH HOTEL",
+      "latitude": 24.42180556,
+      "longitude": 54.45686111
+    },
+    {
+      "tourism_license": "CN-2562420",
+      "establishment_name": "DAHAB RESTAURANT",
+      "location": "MILLENNIUM AL RAWDAH HOTEL L.L.C.",
+      "latitude": 24.42180556,
+      "longitude": 54.45686111
+    },
+    {
+      "tourism_license": "CN-2242808",
+      "establishment_name": "GOLDEN VIEW RESTAURANT",
+      "location": "QUEEN PALACE HOTEL",
+      "latitude": 24.47636111,
+      "longitude": 54.37219444
+    },
+    {
+      "tourism_license": "CN-2243128",
+      "establishment_name": "WOOD LAND RESTAURANT",
+      "location": "QUEEN PALACE HOTEL",
+      "latitude": 24.47636111,
+      "longitude": 54.37219444
+    },
+    {
+      "tourism_license": "CN-2408583",
+      "establishment_name": "THARAVADU RESTAURANT",
+      "location": "QUEEN PALACE HOTEL",
+      "latitude": 24.47636111,
+      "longitude": 54.37219444
+    },
+    {
+      "tourism_license": "CN-2242860",
+      "establishment_name": "HEMINGWAYS RESTUARANT",
+      "location": "RADISSON BLU HOTEL AND RESORT ABU DHABI",
+      "latitude": 24.46316667,
+      "longitude": 54.32547222
+    },
+    {
+      "tourism_license": "CN-3668672",
+      "establishment_name": "DERWANDI LOUNGE & RESTAURANT L.L.C.",
+      "location": "RADISSON BLU HOTEL AND RESORT ABU DHABI",
+      "latitude": 24.46316667,
+      "longitude": 54.32547222
+    },
+    {
+      "tourism_license": "CN-3792510",
+      "establishment_name": "MAWAL ALCORNICHE RESTAURANT - SOLE PROPRIETORSHIP L.L.C.",
+      "location": "RADISSON BLU HOTEL AND RESORT ABU DHABI",
+      "latitude": 24.46316667,
+      "longitude": 54.32547222
+    },
+    {
+      "tourism_license": "CN-3844930",
+      "establishment_name": "WEST BAY LOUNGE RESTAURANT - SOLE PROPRIETORSHIP L.L.C.",
+      "location": "RADISSON BLU HOTEL AND RESORT ABU DHABI",
+      "latitude": 24.46316667,
+      "longitude": 54.32547222
+    },
+    {
+      "tourism_license": "CN-3938373",
+      "establishment_name": "EM SHERIF CAFE WEST BAY L.L.C.",
+      "location": "RADISSON BLU HOTEL AND RESORT ABU DHABI",
+      "latitude": 24.46316667,
+      "longitude": 54.32547222
+    },
+    {
+      "tourism_license": "CN-4249225",
+      "establishment_name": "VERTIGO BAR LOUNGE - SOLE PROPRIETORSHIP L.L.C.",
+      "location": "RADISSON BLU HOTEL AND RESORT ABU DHABI",
+      "latitude": 24.46316667,
+      "longitude": 54.32547222
+    },
+    {
+      "tourism_license": "CN-2242240",
+      "establishment_name": "YAS BELGIAN RESTAURANT",
+      "location": "RADISSON BLU HOTEL YAS ISLAND",
+      "latitude": 24.46747222,
+      "longitude": 54.59813889
+    },
+    {
+      "tourism_license": "CN-2239774",
+      "establishment_name": "FILINI RESTAURANT",
+      "location": "RADISSON BLU HOTEL YAS ISLAND - SOLE PROPRIETORSHIP L.L.C.",
+      "latitude": 24.46747222,
+      "longitude": 54.59813889
+    },
+    {
+      "tourism_license": "CN-2243722",
+      "establishment_name": "VERTICAL RESTAURANT",
+      "location": "RAMADA DOWNTOWN HOTEL",
+      "latitude": 24.49077778,
+      "longitude": 54.38
+    },
+    {
+      "tourism_license": "CN-4044311",
+      "establishment_name": "RIO BBQ RESTAURANT",
+      "location": "SHANGRI-LA HOTEL - QARYAT ALBERI",
+      "latitude": 24.40658333,
+      "longitude": 54.49069444
+    },
+    {
+      "tourism_license": "CN-4222374",
+      "establishment_name": "ATLON BISTRO RESTAURANT L.L.C.",
+      "location": "SHANGRI-LA HOTEL - QARYAT ALBERI",
+      "latitude": 24.40658333,
+      "longitude": 54.49069444
+    },
+    {
+      "tourism_license": "CN-4239429",
+      "establishment_name": "TAON KOREAN RESTAURANT",
+      "location": "SOFITEL ABU DHABI CORNICHE",
+      "latitude": 24.49930556,
+      "longitude": 54.36791667
+    },
+    {
+      "tourism_license": "CN-2242436",
+      "establishment_name": "BALCON BAR RESTAURAURANT",
+      "location": "SOUTHERN SUN HOTEL",
+      "latitude": 24.50066667,
+      "longitude": 54.37147222
+    },
+    {
+      "tourism_license": "CN-2242572",
+      "establishment_name": "BLU SKY LOUNGE AND GRILL RESTAURANT",
+      "location": "SOUTHERN SUN HOTEL",
+      "latitude": 24.50066667,
+      "longitude": 54.37147222
+    },
+    {
+      "tourism_license": "CN-3731172",
+      "establishment_name": "CATCH AT ST REGIS RESTAURANT - SOLE PROPRIETORSHIP L.L.C.",
+      "location": "ST.REGIS ABUDHABI HOTEL",
+      "latitude": 24.46561111,
+      "longitude": 54.32763889
+    },
+    {
+      "tourism_license": "CN-2239796",
+      "establishment_name": "BUDDHA BAR BEACH RESTAURANT - SOLE PROPRIETORSHIP L.L.C.",
+      "location": "ST.REGIS SAADIYAT ISLAND RESORT ABUDHABI",
+      "latitude": 24.54080556,
+      "longitude": 54.42472222
+    },
+    {
+      "tourism_license": "CN-2726559",
+      "establishment_name": "AQUARIUM SEA FOOD RESTAURANT - BRANCH ( Tokyo Grill)",
+      "location": "THE RITZ - CARLTON ABU DHABI - GRAND CANAL",
+      "latitude": 24.41069444,
+      "longitude": 54.48738889
+    },
+    {
+      "tourism_license": "CN-2966878",
+      "establishment_name": "FOOD TAVERN RESTAURANT L.L.C.",
+      "location": "THE RITZ - CARLTON ABU DHABI - GRAND CANAL",
+      "latitude": 24.41083333,
+      "longitude": 54.48719444
+    },
+    {
+      "tourism_license": "CN-2991934",
+      "establishment_name": "VILLAGGIO CAFE AND RESTAURANT - SOLE PROPRIETORSHIP L.L.C.",
+      "location": "VILLGGIO HOTEL",
+      "latitude": 24.47541667,
+      "longitude": 54.38819444
+    },
+    {
+      "tourism_license": "CN-4145120",
+      "establishment_name": "HOODS RESTO AND BAR",
+      "location": "VILLGGIO HOTEL",
+      "latitude": 24.47541667,
+      "longitude": 54.38819444
+    },
+    {
+      "tourism_license": "CN-2241398",
+      "establishment_name": "W LOUNGE RESTAURANT - SOLE PROPRIETORSHIP L.L.C.",
+      "location": "W YAS ISLAND HOTEL",
+      "latitude": 24.46738889,
+      "longitude": 54.60494444
+    },
+    {
+      "tourism_license": "CN-3947635",
+      "establishment_name": "STOUFF BEIRUT RESTAURANT L.L.C.",
+      "location": "WTC Mall",
+      "latitude": 24.48816667,
+      "longitude": 54.35611111
+    },
+    {
+      "tourism_license": "CN-3952124",
+      "establishment_name": "KAI RESTAURANT & LOUNGE L.L.C.",
+      "location": "WTC MALL",
+      "latitude": 24.48816667,
+      "longitude": 54.35611111
+    },
+    {
+      "tourism_license": "CN-4306700",
+      "establishment_name": "THE IRISH VICKERS BAR & RESTAURANT",
+      "location": "WTC Mall",
+      "latitude": 24.48816667,
+      "longitude": 54.35611111
+    },
+    {
+      "tourism_license": "CN-3964562",
+      "establishment_name": "THE LIGHTHOUSE RESTAURANT L L C - BRANCH OF ABU DHABI 1",
+      "location": "Yas Bay",
+      "latitude": 24.45802778,
+      "longitude": 54.60127778
+    },
+    {
+      "tourism_license": "CN-4023449",
+      "establishment_name": "DAIKAN RESTAURANT",
+      "location": "Yas Bay",
+      "latitude": 24.45802778,
+      "longitude": 54.60127778
+    },
+    {
+      "tourism_license": "CN-4052581",
+      "establishment_name": "GLB FOOD & BEVERAGES L.L.C. - BRANCH",
+      "location": "Yas Bay",
+      "latitude": 24.45705556,
+      "longitude": 54.60019444
+    },
+    {
+      "tourism_license": "CN-4113744",
+      "establishment_name": "THE CENTRAL SHAKES BURGERS RESTAURANT L.L.C.",
+      "location": "Yas Bay",
+      "latitude": 24.45802778,
+      "longitude": 54.60127778
+    },
+    {
+      "tourism_license": "CN-4114582",
+      "establishment_name": "EXCELLENT ASIA ASIA RESTAURANT L.L.C.",
+      "location": "YAS BAY",
+      "latitude": 24.45705556,
+      "longitude": 54.60019444
+    },
+    {
+      "tourism_license": "CN-4115615",
+      "establishment_name": "HUNTER AND BARREL THE FOX RESTURANT L.L.C.",
+      "location": "Yas Bay",
+      "latitude": 24.45727778,
+      "longitude": 54.60052778
+    },
+    {
+      "tourism_license": "CN-4173950",
+      "establishment_name": "LA CARNITA RESTAURANT - SOLE PROPRIETORSHIP L.L.C.",
+      "location": "YAS BAY",
+      "latitude": 24.45727778,
+      "longitude": 54.60052778
+    },
+    {
+      "tourism_license": "CN-4217229",
+      "establishment_name": "AQUARIUM SEA FOOD RESTAURANT - BRANCH ( Triology )",
+      "location": "Yas Bay",
+      "latitude": 24.45727778,
+      "longitude": 54.60052778
+    },
+    {
+      "tourism_license": "CN-4237658",
+      "establishment_name": "AQUARIUM SEA FOOD RESTAURANT - BRANCH ( Café Del Mare )",
+      "location": "Yas Bay",
+      "latitude": 24.45802778,
+      "longitude": 54.60127778
+    },
+    {
+      "tourism_license": "CN-2240804",
+      "establishment_name": "DIABLITO RESTAURANT L.L.C",
+      "location": "Yas Marina",
+      "latitude": 24.46655556,
+      "longitude": 54.60955556
+    },
+    {
+      "tourism_license": "CN-2240844",
+      "establishment_name": "AQUARIUM SEA FOOD RESTAURANT - SOLE PROPRIETORSHIP L.L.C. ( Aquarium restaurant)",
+      "location": "Yas Marina",
+      "latitude": 24.46655556,
+      "longitude": 54.60955556
+    },
+    {
+      "tourism_license": "CN-2240916",
+      "establishment_name": "IRIS STAR RESTAURANT - SOLE PROPRIETORSHIP L.L.C.",
+      "location": "Yas Marina",
+      "latitude": 24.46655556,
+      "longitude": 54.60955556
+    },
+    {
+      "tourism_license": "CN-2242162",
+      "establishment_name": "MONACO STARS AND BARS RESTAURANT L.L.C",
+      "location": "Yas Marina",
+      "latitude": 24.46655556,
+      "longitude": 54.60955556
+    },
+    {
+      "tourism_license": "CN-2669445",
+      "establishment_name": "CASA DE CUBA RESTAURANT L.L.C.",
+      "location": "Yas Marina",
+      "latitude": 24.46655556,
+      "longitude": 54.60955556
+    },
+    {
+      "tourism_license": "CN-2669460",
+      "establishment_name": "MIYAGI AND SCENE RESTAURANT L.L.C.",
+      "location": "Yas Marina",
+      "latitude": 24.46655556,
+      "longitude": 54.60955556
+    },
+    {
+      "tourism_license": "CN-4216469",
+      "establishment_name": "AQUARIUM SEA FOOD RESTAURANT - BRANCH ( Ashtaar )",
+      "location": "Yas Marina",
+      "latitude": 24.46655556,
+      "longitude": 54.60955556
+    }
+  ]
+}

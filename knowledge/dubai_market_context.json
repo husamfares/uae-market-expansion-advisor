@@ -1,0 +1,88 @@
+{
+  "city": "Dubai",
+  "market_overview": {
+    "positioning": "Global gastronomy hub with multicultural cuisine landscape",
+    "new_restaurant_licenses_2024": 1200,
+    "michelin_star_restaurants": 19,
+    "michelin_guide_total_restaurants": 106,
+    "gault_millau_awarded_restaurants": 48,
+    "world_top_restaurants_mena_in_dubai": 19,
+    "ranking_global_food_city": 9,
+    "global_gastronomy_capital_rank": 2
+  },
+  "tourism_and_demand": {
+    "international_visitors_2024": 18720000,
+    "growth_rate_yoy": 0.09,
+    "hotel_room_nights": 43030000,
+    "visitor_sources": {
+      "GCC_MENA": 0.26,
+      "Western_Europe": 0.20,
+      "South_Asia": 0.17,
+      "CIS_Eastern_Europe": 0.14,
+      "North_SE_Asia": 0.10,
+      "Americas": 0.07,
+      "Africa": 0.05,
+      "Australasia": 0.02
+    }
+  },
+  "consumer_behavior": {
+    "average_dining_out_per_week": 2.5,
+    "casual_family_dining_visits": 0.84,
+    "fast_food_visits": 0.78,
+    "food_truck_growth": 0.19,
+    "cuisine_importance_factor": 0.49,
+    "value_for_money_importance": 0.38
+  },
+  "restaurant_selection_factors": {
+    "hygiene": 0.50,
+    "cuisine_type": 0.49,
+    "ambience_special_occasions": 0.43,
+    "service_quality": 0.42,
+    "online_reviews": 0.27
+  },
+  "cuisine_popularity": {
+    "indian_search_share": 0.34,
+    "arabic_search_share": 0.22,
+    "italian_search_share": 0.12,
+    "chinese_search_growth": 0.79,
+    "lebanese_search_growth": 0.32,
+    "persian_search_growth": 1.4,
+    "thai_search_growth": 0.21,
+    "french_search_growth": 0.36
+  },
+  "dining_trends": [
+    "Growth of casual and family dining",
+    "Increasing demand for value-for-money restaurants",
+    "Rising popularity of Emirati and Arabic cuisine",
+    "Expansion of street food and food trucks",
+    "Fusion cuisine concepts gaining traction",
+    "Chef-led restaurants and tasting menus increasing",
+    "High demand for multicultural cuisine diversity"
+  ],
+  "marketing_behavior": {
+    "diners_using_social_media_before_restaurant": 0.70,
+    "uae_social_media_users": 10730000,
+    "residents_dining_out_three_times_weekly": 0.52
+  },
+  "industry_events": {
+    "dubai_food_festival_participating_restaurants": 769,
+    "chefs_menu_restaurants": 26,
+    "foodie_experiences_events": 52,
+    "beach_canteen_food_vendors": 50
+  },
+  "economic_role": {
+    "sector_roles": [
+      "tourism revenue generation",
+      "job creation",
+      "local supply chain stimulation",
+      "hospitality ecosystem growth"
+    ],
+    "government_strategy": "Dubai Economic Agenda D33",
+    "key_growth_drivers": [
+      "tourism expansion",
+      "hotel infrastructure growth",
+      "global culinary recognition",
+      "food festivals and events"
+    ]
+  }
+}

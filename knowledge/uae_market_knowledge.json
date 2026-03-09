@@ -1,0 +1,346 @@
+{
+  "dubai": {
+    "city": "Dubai",
+    "market_overview": {
+      "positioning": "Global gastronomy hub with multicultural cuisine landscape",
+      "new_restaurant_licenses_2024": 1200,
+      "michelin_star_restaurants": 19,
+      "michelin_guide_total_restaurants": 106,
+      "gault_millau_awarded_restaurants": 48,
+      "world_top_restaurants_mena_in_dubai": 19,
+      "ranking_global_food_city": 9,
+      "global_gastronomy_capital_rank": 2
+    },
+    "tourism_and_demand": {
+      "international_visitors_2024": 18720000,
+      "growth_rate_yoy": 0.09,
+      "hotel_room_nights": 43030000,
+      "visitor_sources": {
+        "GCC_MENA": 0.26,
+        "Western_Europe": 0.2,
+        "South_Asia": 0.17,
+        "CIS_Eastern_Europe": 0.14,
+        "North_SE_Asia": 0.1,
+        "Americas": 0.07,
+        "Africa": 0.05,
+        "Australasia": 0.02
+      }
+    },
+    "consumer_behavior": {
+      "average_dining_out_per_week": 2.5,
+      "casual_family_dining_visits": 0.84,
+      "fast_food_visits": 0.78,
+      "food_truck_growth": 0.19,
+      "cuisine_importance_factor": 0.49,
+      "value_for_money_importance": 0.38
+    },
+    "restaurant_selection_factors": {
+      "hygiene": 0.5,
+      "cuisine_type": 0.49,
+      "ambience_special_occasions": 0.43,
+      "service_quality": 0.42,
+      "online_reviews": 0.27
+    },
+    "cuisine_popularity": {
+      "indian_search_share": 0.34,
+      "arabic_search_share": 0.22,
+      "italian_search_share": 0.12,
+      "chinese_search_growth": 0.79,
+      "lebanese_search_growth": 0.32,
+      "persian_search_growth": 1.4,
+      "thai_search_growth": 0.21,
+      "french_search_growth": 0.36
+    },
+    "dining_trends": [
+      "Growth of casual and family dining",
+      "Increasing demand for value-for-money restaurants",
+      "Rising popularity of Emirati and Arabic cuisine",
+      "Expansion of street food and food trucks",
+      "Fusion cuisine concepts gaining traction",
+      "Chef-led restaurants and tasting menus increasing",
+      "High demand for multicultural cuisine diversity"
+    ],
+    "marketing_behavior": {
+      "diners_using_social_media_before_restaurant": 0.7,
+      "uae_social_media_users": 10730000,
+      "residents_dining_out_three_times_weekly": 0.52
+    },
+    "industry_events": {
+      "dubai_food_festival_participating_restaurants": 769,
+      "chefs_menu_restaurants": 26,
+      "foodie_experiences_events": 52,
+      "beach_canteen_food_vendors": 50
+    },
+    "economic_role": {
+      "sector_roles": [
+        "tourism revenue generation",
+        "job creation",
+        "local supply chain stimulation",
+        "hospitality ecosystem growth"
+      ],
+      "government_strategy": "Dubai Economic Agenda D33",
+      "key_growth_drivers": [
+        "tourism expansion",
+        "hotel infrastructure growth",
+        "global culinary recognition",
+        "food festivals and events"
+      ]
+    }
+  },
+  "abu_dhabi": {
+    "city": "Abu Dhabi",
+    "city_type": "location_market",
+    "market_overview": {
+      "total_restaurant_records": 76,
+      "unique_locations": 40
+    },
+    "location_clusters": [
+      {
+        "location": "Yas Bay",
+        "restaurant_count": 7,
+        "sample_restaurants": [
+          "THE LIGHTHOUSE RESTAURANT L L C - BRANCH OF ABU DHABI 1",
+          "DAIKAN RESTAURANT",
+          "GLB FOOD & BEVERAGES L.L.C. - BRANCH",
+          "THE CENTRAL SHAKES BURGERS RESTAURANT L.L.C.",
+          "HUNTER AND BARREL THE FOX RESTURANT L.L.C."
+        ]
+      },
+      {
+        "location": "Yas Marina",
+        "restaurant_count": 7,
+        "sample_restaurants": [
+          "DIABLITO RESTAURANT L.L.C",
+          "AQUARIUM SEA FOOD RESTAURANT - SOLE PROPRIETORSHIP L.L.C. ( Aquarium restaurant)",
+          "IRIS STAR RESTAURANT - SOLE PROPRIETORSHIP L.L.C.",
+          "MONACO STARS AND BARS RESTAURANT L.L.C",
+          "CASA DE CUBA RESTAURANT L.L.C."
+        ]
+      },
+      {
+        "location": "RADISSON BLU HOTEL AND RESORT ABU DHABI",
+        "restaurant_count": 6,
+        "sample_restaurants": [
+          "HEMINGWAYS RESTUARANT",
+          "DERWANDI LOUNGE & RESTAURANT L.L.C.",
+          "MAWAL ALCORNICHE RESTAURANT - SOLE PROPRIETORSHIP L.L.C.",
+          "WEST BAY LOUNGE RESTAURANT - SOLE PROPRIETORSHIP L.L.C.",
+          "EM SHERIF CAFE WEST BAY L.L.C."
+        ]
+      },
+      {
+        "location": "INTERCONTINENTAL HOTEL ABU DHABI",
+        "restaurant_count": 4,
+        "sample_restaurants": [
+          "CHAMAS RESTAURANT",
+          "BELGIUM RESTAURANT",
+          "BYBLOS SUR MER RESTAURANT",
+          "CHO GAO ASIAN RESTAURANT AND LOUNGE - BRANCH (INTERCONTINENTAL HOTEL )"
+        ]
+      },
+      {
+        "location": "MAMSHA AL SAADIYAT",
+        "restaurant_count": 4,
+        "sample_restaurants": [
+          "BEIRUT SUR MER RESTAURANT L.L.C.",
+          "RACLETTE BRASSERIE & CAFE L.L.C.",
+          "TINGIRIE RESTAURANT - SOLE PROPRIETORSHIP L.L.C - BRANCH OF ABU DHABI 1",
+          "NIRI RESTAURANT AND BAR - SOLE PROPRIETORSHIP L.L.C."
+        ]
+      },
+      {
+        "location": "LE MERIDIEN HOTEL ABU DHABI",
+        "restaurant_count": 3,
+        "sample_restaurants": [
+          "MERIDIEN PLAZA - SOLE PROPRIETORSHIP L.L.C.",
+          "AVENUE STEAK HOUSE",
+          "MYKONOS RESTAURANT&LOUNGE - SOLE PROPRIETORSHIP L.L.C."
+        ]
+      },
+      {
+        "location": "QUEEN PALACE HOTEL",
+        "restaurant_count": 3,
+        "sample_restaurants": [
+          "GOLDEN VIEW RESTAURANT",
+          "WOOD LAND RESTAURANT",
+          "THARAVADU RESTAURANT"
+        ]
+      },
+      {
+        "location": "AL AIN PALACE HOTEL",
+        "restaurant_count": 2,
+        "sample_restaurants": [
+          "EASY TIGER RESTAURANT",
+          "LITTLE SOHO RESTAURANT - SOLE PROPRIETORSHIP L.L.C."
+        ]
+      },
+      {
+        "location": "CRISTAL HOTEL",
+        "restaurant_count": 2,
+        "sample_restaurants": [
+          "ON SEVENTEEN BAR - SOLE PROPRIETORSHIP L.L.C.",
+          "VIEWZ RESTAURANT"
+        ]
+      },
+      {
+        "location": "CROWNE PLAZA HOTEL YAS ISLAND",
+        "restaurant_count": 2,
+        "sample_restaurants": [
+          "STILLS RESTAURANT",
+          "BAROUK RESTAUEANT"
+        ]
+      },
+      {
+        "location": "SHANGRI-LA HOTEL - QARYAT ALBERI",
+        "restaurant_count": 2,
+        "sample_restaurants": [
+          "RIO BBQ RESTAURANT",
+          "ATLON BISTRO RESTAURANT L.L.C."
+        ]
+      },
+      {
+        "location": "SOUTHERN SUN HOTEL",
+        "restaurant_count": 2,
+        "sample_restaurants": [
+          "BALCON BAR RESTAURAURANT",
+          "BLU SKY LOUNGE AND GRILL RESTAURANT"
+        ]
+      },
+      {
+        "location": "THE RITZ - CARLTON ABU DHABI - GRAND CANAL",
+        "restaurant_count": 2,
+        "sample_restaurants": [
+          "AQUARIUM SEA FOOD RESTAURANT - BRANCH ( Tokyo Grill)",
+          "FOOD TAVERN RESTAURANT L.L.C."
+        ]
+      },
+      {
+        "location": "VILLGGIO HOTEL",
+        "restaurant_count": 2,
+        "sample_restaurants": [
+          "VILLAGGIO CAFE AND RESTAURANT - SOLE PROPRIETORSHIP L.L.C.",
+          "HOODS RESTO AND BAR"
+        ]
+      },
+      {
+        "location": "WTC Mall",
+        "restaurant_count": 2,
+        "sample_restaurants": [
+          "STOUFF BEIRUT RESTAURANT L.L.C.",
+          "THE IRISH VICKERS BAR & RESTAURANT"
+        ]
+      },
+      {
+        "location": "YAS BAY",
+        "restaurant_count": 2,
+        "sample_restaurants": [
+          "EXCELLENT ASIA ASIA RESTAURANT L.L.C.",
+          "LA CARNITA RESTAURANT - SOLE PROPRIETORSHIP L.L.C."
+        ]
+      },
+      {
+        "location": "Al Bandar",
+        "restaurant_count": 1,
+        "sample_restaurants": [
+          "ORNINA RESTAURANT - SOLE PROPRIETORSHIP L.L.C."
+        ]
+      },
+      {
+        "location": "Al Muneera",
+        "restaurant_count": 1,
+        "sample_restaurants": [
+          "VICCIS RESTAURANT - SOLE PROPRIETORSHIP L.L.C."
+        ]
+      },
+      {
+        "location": "Al Zeina",
+        "restaurant_count": 1,
+        "sample_restaurants": [
+          "DANDANA GOURMET RESTAURANT"
+        ]
+      },
+      {
+        "location": "CONRAD HOTEL ABU DHABI ETIHAD TOWERS",
+        "restaurant_count": 1,
+        "sample_restaurants": [
+          "MOKSH RESTAURANT"
+        ]
+      },
+      {
+        "location": "COURTYARD BY MARRIOTT WTC",
+        "restaurant_count": 1,
+        "sample_restaurants": [
+          "BACK YARD BISTRO RESTAURANT L.L.C."
+        ]
+      },
+      {
+        "location": "DUSIT THANI ABU DHABI HOTEL LLC",
+        "restaurant_count": 1,
+        "sample_restaurants": [
+          "D' CAPITAL STEAKHOUSE RESTAURANT - SOLE PROPRIETORSHIP L.L.C"
+        ]
+      },
+      {
+        "location": "FAIRMONT BAB AL BAHR HOTEL",
+        "restaurant_count": 1,
+        "sample_restaurants": [
+          "MAZAJ BAB AL BAHR RESTAURANT"
+        ]
+      },
+      {
+        "location": "Ghantoot racing club",
+        "restaurant_count": 1,
+        "sample_restaurants": [
+          "GHANTOOT RACING CLUB RESTAURANT"
+        ]
+      },
+      {
+        "location": "GRAND MILLENNIUM AL WAHDA HOTEL",
+        "restaurant_count": 1,
+        "sample_restaurants": [
+          "LAYALI SHAHRAZAD RESTAURANT & LOUNGE"
+        ]
+      },
+      {
+        "location": "GRAND MILLENNIUM ALWAHDA APARTAMENTS",
+        "restaurant_count": 1,
+        "sample_restaurants": [
+          "PORTERS PUB RESTAURANT"
+        ]
+      },
+      {
+        "location": "HOLIDAY INN ABU DHABI",
+        "restaurant_count": 1,
+        "sample_restaurants": [
+          "RENAISSANCE RESTAURANT - SOLE PROPRIETORSHIP L.L.C."
+        ]
+      },
+      {
+        "location": "JUMEIRAH AT SAADIYAT ISLAND RESORT",
+        "restaurant_count": 1,
+        "sample_restaurants": [
+          "THE LOUNGE SAADIYAT"
+        ]
+      },
+      {
+        "location": "LE ROYAL MERIDIEN ABU DHABI EST.",
+        "restaurant_count": 1,
+        "sample_restaurants": [
+          "PJOREILLY RESTAURANT"
+        ]
+      },
+      {
+        "location": "MARRIOTT HOTEL DOWNTOWN L.LC",
+        "restaurant_count": 1,
+        "sample_restaurants": [
+          "VELOCITY RESTAURANT L.L.C"
+        ]
+      }
+    ],
+    "strategic_notes": [
+      "This dataset is useful for restaurant location mapping and competitor clustering.",
+      "The data is location-rich but does not include pricing, customer demand, or menu-level behavior.",
+      "Repeated hotel or district names may indicate hospitality and tourism-linked restaurant clusters."
+    ]
+  }
+}

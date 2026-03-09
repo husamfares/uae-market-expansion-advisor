@@ -1,0 +1,59 @@
+{
+  "@type": "dcat:Dataset",
+  "title": "Abu Dhabi Restaurant Tourism Licenses Dataset 2025",
+  "titlear": "مجموعة بيانات تراخيص السياحة للمطاعم في أبوظبي 2025",
+  "identifier": "3498df63-7edb-4bb6-a0d4-c0d7ba9d126a",
+  "description": "This dataset contains information on tourism licenses for restaurants located in Abu Dhabi. It includes the establishment name, location, latitude, and longitude. The data provides insights into the geographic distribution of restaurants within various hotels and areas in Abu Dhabi. The dataset is useful for analyzing restaurant locations and tourism-related business activities in the region.\r\n\r\nAnswers to questions like:\r\n1. What are the coordinates of restaurants with tourism licenses in Abu Dhabi?\r\n2. Which hotels in Abu Dhabi house multiple licensed restaurants?\r\n3. How is the distribution of restaurants across different areas in Abu Dhabi?\r\n4. What are the names of restaurants located in Al Ain Palace Hotel?\r\n5. How can I find the location of a specific restaurant using its tourism license number?",
+  "descriptionlear": "تحتوي مجموعة البيانات هذه على معلومات حول تراخيص السياحة للمطاعم الموجودة في أبوظبي. تشمل اسم المنشأة، الموقع، خط العرض، وخط الطول. توفر البيانات رؤى حول التوزيع الجغرافي للمطاعم داخل الفنادق والمناطق المختلفة في أبوظبي. تعتبر مجموعة البيانات مفيدة لتحليل مواقع المطاعم والأنشطة التجارية المتعلقة بالسياحة في المنطقة.\r\n\r\nإجابات على أسئلة مثل:\r\n1. ما هي إحداثيات المطاعم الحاصلة على تراخيص السياحة في أبوظبي؟\r\n2. أي الفنادق في أبوظبي تضم عدة مطاعم مرخصة؟\r\n3. كيف يتم توزيع المطاعم عبر المناطق المختلفة في أبوظبي؟\r\n4. ما هي أسماء المطاعم الموجودة في فندق العين بالاس؟\r\n5. كيف يمكنني العثور على موقع مطعم محدد باستخدام رقم ترخيص السياحة الخاص به؟",
+  "accessLevel": "public",
+  "accessLevellear": "عام",
+  "accrualPeriodicity": "R/P1Y",
+  "issued": "2025-11-16T20:00:00+00:00",
+  "modified": "2025-11-18T07:17:05+00:00",
+  "license": "https://data.abudhabi/opendata/addata_open_license",
+  "licenselear": "https://data.abudhabi/opendata/node/6041?language=ar",
+  "publisher": {
+    "@type": "org:Organization",
+    "name": "Department of Culture &amp; Tourism"
+  },
+  "publisherlear": {
+    "@type": "org:Organization",
+    "name": "دائرة الثقافة والسياحة"
+  },
+  "contactPoint": {
+    "fn": "DCT-MALHOSANI",
+    "fnlear": "DCT-MALHOSANI",
+    "hasEmail": "MAHHosani@dctabudhabi.ae"
+  },
+  "theme": [
+    "Tourism"
+  ],
+  "themelear": [
+    "السياحة"
+  ],
+  "keyword": [
+    "Abu Dhabi",
+    "Hospitality",
+    "Geographic Distribution",
+    "Restaurants",
+    "Tourism Licenses"
+  ],
+  "keywordlear": [
+    "أبوظبي",
+    "الضيافة",
+    "التوزيع الجغرافي",
+    "مطاعم",
+    "تراخيص السياحة"
+  ],
+  "distribution": [
+    {
+      "@type": "dcat:Distribution",
+      "title": "Resturants Bars- AbuDhabi.xlsx",
+      "titlelear": "Resturants Bars- AbuDhabi.xlsx",
+      "description": "Dataset file in XLSX format",
+      "descriptionlear": "ملف البيانات بتنسيق XLSX",
+      "format": "csv",
+      "downloadURL": "https://data.abudhabi/opendata/sites/default/files/datasets_metadata_ai/Resturants%20Bars-%20AbuDhabi.xlsx"
+    }
+  ]
+}
